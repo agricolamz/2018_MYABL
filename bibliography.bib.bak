@@ -1,15 +1,3 @@
-@incollection{stolz09,
-  title={{A different kind of gender problem: Maltese loanword gender from a typological perspective}},
-  author={Stolz, Christel},
-  editor={Comrie, Bernard and Fabri, Ray and Hume, Elizabeth and Mifsud, Manwel and Stolz, Thomas and Vanhove, Martine},
-  booktitle = {Introducing Maltese Linguistics.},
-  adress = {Amsterdam},
-  publisher = {John Benjamins},
-  pages={321--354},
-  year={2009}
-}
-
-
 @article{dobrushina11,
   title={{Многоязычие в Дагестане конца XIX-начала XXI века: попытка количественной оценки}},
   author={Добрушина, Н. Р.},
